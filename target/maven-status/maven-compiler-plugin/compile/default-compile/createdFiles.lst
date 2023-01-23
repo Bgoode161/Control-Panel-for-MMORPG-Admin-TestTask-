@@ -1,0 +1,14 @@
+com\game\repository\PlayerCriteriaRepository.class
+com\game\utils\PlayerValidator.class
+com\game\entity\Player.class
+com\game\entity\Profession.class
+com\game\controller\PlayerOrder.class
+com\game\entity\Race.class
+com\game\service\PlayerService.class
+com\game\config\WebConfig.class
+com\game\config\MyWebAppInit.class
+com\game\utils\UpdatedPlayerValidator.class
+com\game\controller\PlayerController.class
+com\game\repository\PlayerRepository.class
+com\game\service\PlayerServiceImpl.class
+com\game\config\AppConfig.class
